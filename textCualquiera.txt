@@ -1,3 +1,0 @@
-Hola mundo!
-Esta nueva línea está hecha desde la interfaz de la web del GitHub 
-Punto número 7 de la actividad de la clase.
